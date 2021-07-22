@@ -1,1 +1,13 @@
 size(600,600);
+fill(225,0,0,100);
+textSize(25);
+text("Smart",205,110);
+ellipse(250,175,200,200);
+fill(0,225,0,100);
+textSize(25);
+text("Unique",325,110);
+ellipse(350,175,200,200);
+fill(0,0,225,100);
+textSize(20);
+text("Middle Schooler",225,220);
+ellipse(300,275,200,200);
